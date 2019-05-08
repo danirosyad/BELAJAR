@@ -1,10 +1,4 @@
 # BELAJAR
-belajar github
-tolong bantu saya untuk belajar kak
-EDITAN BRANCH!
-hai, dika in here
-
-
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
